@@ -1,4 +1,3 @@
 alert("Hi")
-alert("Welcome")
-
+confirm("hello")
 
