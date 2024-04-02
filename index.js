@@ -1,4 +1,4 @@
-alert("Hi")
-alert("Welcome")
+confirm("welcome")
+confirm("Hello")
 
 
