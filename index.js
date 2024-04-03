@@ -1,5 +1,5 @@
 alert("Hi")
-confirm("hello")
+alert("hello")
 confirm("welcome")
 
 
