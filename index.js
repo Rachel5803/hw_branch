@@ -1,6 +1,5 @@
-alert("Hi")
-alert("hello")
-confirm("welcome")
+alert("Hi, how are you")
+
 
 
 
