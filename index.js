@@ -1,4 +1,4 @@
-alert("Hi, how are you")
+confirm("Hi, how are you")
 
 
 
